@@ -1,0 +1,11 @@
+# Ignore R data files
+*.RData
+*.rds
+
+# Ignore session files
+.Rhistory
+.Rproj.user
+
+# Ignore large data files if you don’t want to upload them
+*.csv
+*.xlsx
